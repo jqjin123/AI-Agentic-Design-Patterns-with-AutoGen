@@ -12,7 +12,11 @@ In this course, you'll explore key principles of designing multi-agent systems a
 
 2. 🎉 **Customer Onboarding**: Develop a sequence of chats between agents to provide a fun customer onboarding experience for a product using the multi-agent collaboration design pattern.
 <p align="center">
-<img src="images/l2.png" height="400"> 
+<img src="images/l2.png" height="400">
+</p>
+
+<p align="center">
+<img src="images/l2-onboarding.png" height="400">
 </p>
 
 3. 📝 **Blog Post Creation**: Use the agent reflection framework to create a high-quality blog post with nested chats, where reviewer agents reflect on the blog post written by another agent.
